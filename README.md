@@ -2,7 +2,6 @@
 
 ### Hi there 👋,i'am [HAOGRE](https://haogre.com/)
 
-<br/>
 <a href="https://twitter.com/haogre">
   <img align="left" alt="haogre | Twitter" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/twitter.svg" />
 </a>
@@ -15,6 +14,7 @@
 <a href="https://haogre.com/">
   <img align="left" alt="haogre | blog" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/blog.svg" />
 </a>
+<br/>
 <br/>
 
 - 👨 I'm a father of a boy.

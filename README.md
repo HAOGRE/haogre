@@ -1,4 +1,5 @@
 ![](https://github.com/HAOGRE/haogre/blob/master/img/hello.gif)
+
 ### Hi there 👋,i'am [HAOGRE](https://haogre.com/)
 
 
@@ -17,6 +18,17 @@
 </a>
 <br/> <br/> <br/>
 
+- 👨 I'm a father of a boy.
+- 🔭 I’m currently working on [nashwork](https://www.nashwork.com/) as a backend engineer.
+- 🌱 I’m currently learning to be a designer.
+- 📫 How to reach me: [@HAOGRE](https://t.me/HAOGRE).
+- 📱 I'm currently using Android & iOS daily.
+- 💬 Ask me about anything.
+
+
+<!-- 
+
+it's a demo 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,4 +38,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+
+ -->
 

@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/HAOGRE/haogre/blob/master/img/hello.gif) -->
 
-### Hi there 👋,i'am [HAOGRE](https://haogre.com/)
+### Hi there 👋,i'm [HAOGRE](https://haogre.com/)
 
 <a href="https://twitter.com/haogre">
   <img align="left" alt="haogre | Twitter" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/twitter.svg" />

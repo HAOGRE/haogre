@@ -13,7 +13,7 @@
 <a href="https://t.me/haogre">
   <img align="left" alt="haogre | Telegram" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/telegram.svg" />
 </a>
-<a href="https://haogre.com/x">
+<a href="https://haogre.com/">
   <img align="left" alt="haogre | blog" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/blog.svg" />
 </a>
 <br/> <br/> <br/>

@@ -2,6 +2,17 @@
 
 ### Hi there 👋,i'm [HAOGRE](https://haogre.com/)
 
+
+I'm a father👨 of a boy who work for fun not for living . I am a backend engineer and wanna to be a desinger in my dreams .
+I love post picture to record my life and my thoughts ,this is my [Instagram](https://instagram.com/haogre). I keep writing a diary for years and years to come .
+<br/>
+
+- 🔭 I’m currently working on [nashwork](https://www.nashwork.com/) as a backend engineer.
+- 🌱 I’m currently learning to be a designer.
+- 📫 How to reach me: [@HAOGRE](https://t.me/HAOGRE).
+- 📱 I'm currently using Android & iOS daily.
+- 💬 Ask me about anything.
+
 <a href="https://twitter.com/haogre">
   <img align="left" alt="haogre | Twitter" width="30px" src="https://github.com/HAOGRE/haogre/blob/master/img/twitter.svg" />
 </a>
@@ -16,16 +27,6 @@
 </a>
 <br/>
 <br/>
-I'm a father👨 of a boy who work for fun not for living . I am a backend engineer and wanna to be a desinger in my dreams .
-I love post picture to record my life and my thoughts ,this is my [Instagram](https://instagram.com/haogre). I keep writing a diary for years and years to come .
-<br/>
-
-- 🔭 I’m currently working on [nashwork](https://www.nashwork.com/) as a backend engineer.
-- 🌱 I’m currently learning to be a designer.
-- 📫 How to reach me: [@HAOGRE](https://t.me/HAOGRE).
-- 📱 I'm currently using Android & iOS daily.
-- 💬 Ask me about anything.
-
 
 <!-- 
 

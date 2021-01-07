@@ -3,8 +3,7 @@
 ### Hi there 👋,i'm [HAOGRE](https://haogre.com/)
 
 
-I'm a father👨 of a boy who work for fun not for living . <br/>
-I'm a backend engineer and wanna to be a desinger in my dreams .<br/>
+Record the life.<br/>
 I love post picture to record my life and my thoughts ,this is my [Instagram](https://instagram.com/haogre). <br/>
 I keep writing a diary for years and years to come .
 <br/>

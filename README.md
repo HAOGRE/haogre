@@ -4,7 +4,7 @@
 
 
 Record the life.<br/>
-I love post picture to record my life and my thoughts ,this is my [Instagram](https://instagram.com/haogre). <br/>
+I love post pictures to record my life and my thoughts ,this is my [Instagram](https://instagram.com/haogre). <br/>
 I keep writing a diary for years and years to come .
 <br/>
 
